@@ -1,5 +1,26 @@
+### IDE related files ###
+/.idea/
+/.settings/
+/.gradle/
+out/
+target/
+/dist/
+/gradle/
+build/
+/bin/
+.project
+.classpath
+.gradle
+*.iml
+gradlew
+gradlew.bat
+
 # Compiled class file
 *.class
+*.bin
+*.ini
+*.mf
+*.lock
 
 # Log file
 *.log

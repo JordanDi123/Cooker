@@ -1,0 +1,12 @@
+main: me.jordan.cooker.Main
+name: Cooker
+version: 1.0.0
+description: A simple food cooking plugin
+api-version: 1.18
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10
+commands:
+  cook:
+    description: Cook any food in your hand
+    usage: /<command>
+    permission: cooker.cook
