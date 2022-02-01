@@ -3,7 +3,8 @@ package me.jordan.cooker
 import org.bukkit.Material
 
 /**
- * This enum stores all the items which can be cooked
+ * This enum stores all the items which can be cooked and their
+ * respective raw and cooked forms
  *
  * @author Jordan Di Marcantonio
  */
